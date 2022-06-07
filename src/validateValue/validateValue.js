@@ -4,3 +4,4 @@ const validateValue = (value) => {
     }
     return true;
 }
+module.exports = validateValue;
