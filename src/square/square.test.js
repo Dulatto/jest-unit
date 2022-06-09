@@ -1,6 +1,5 @@
 const square = require('./square');
 
-
 describe('square', () => {
     let mockValue;
     beforeEach(() => { //before each test
